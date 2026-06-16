@@ -1,0 +1,21 @@
+# Секретные ключи и файлы окружения
+gsc-key.json
+*.json
+
+# Python и виртуальное окружение
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Результаты работы скрипта
+*.xlsx
+positions_*.xlsx
+
+# Системные файлы
+.DS_Store
+Thumbs.db
